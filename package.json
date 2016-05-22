@@ -1,0 +1,19 @@
+{
+  "name": "node-env",
+  "version": "0.0.1",
+  "description": "A node test environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamieabc/node-env.git"
+  },
+  "author": "Xesus <xesuschang@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamieabc/node-env/issues"
+  },
+  "homepage": "https://github.com/jamieabc/node-env#readme"
+}
