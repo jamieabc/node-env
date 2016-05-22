@@ -1,0 +1,14 @@
+# node
+node_modules
+npm-debug.log
+
+# tag
+tags
+TAGS
+GPATH
+GRTAGS
+GTAGS
+gtags.files
+
+# mac
+.DS_STORE
